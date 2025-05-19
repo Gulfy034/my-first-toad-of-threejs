@@ -12,7 +12,7 @@ All the stuff you will find at ~~[sketchfab]((https://sketchfab.com/Gulfieen))~~
 
 ## some chit-chats
 
-not all platforms or web browsers support WebGPU, so i have to learn glsl with threejs instead of using glsl.
+not all platforms or web browsers support WebGPU, so i have to learn glsl with threejs instead of using wgsl.
 
 i am a newbee in glsl, croak!
 
